@@ -7,7 +7,7 @@ It's a simple Ruby script that is intended to help in situations when I forget t
 Hook this script to execute on a hotkey. If you screw up a message:
 
   * cut the relevant part (`Ctrl+X`)
-  * hit the hotkey (`Ctrl+'`` maybe?)
+  * hit the hotkey (`Ctrl+'` maybe?)
   * paste it back (`Ctrl+V`)
 
 ## Prerequisites
@@ -20,5 +20,6 @@ Hook this script to execute on a hotkey. If you screw up a message:
 
 * Tests (really?)
 * Fill out the compatibility list (OS, Ruby implementations)
-* Document how it works and how to use it with different layouts
-
+* Document how it works and how to use it with other layouts
+* License code properly (MIT or WTFPL? Tough choice)
+* Extract layout file choice into arguments (or even a config file, if need be)
