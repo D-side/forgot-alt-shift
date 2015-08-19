@@ -19,4 +19,6 @@ Hook this script to execute on a hotkey. If you screw up a message:
 ## TODOs
 
 * Tests (really?)
-* Fill out the compatibility list
+* Fill out the compatibility list (OS, Ruby implementations)
+* Document how it works and how to use it with different layouts
+
